@@ -31,7 +31,7 @@ It calculates student totals and averages, assigns grades, summarizes subject pe
 
 - `notebooks_project.ipynb` — Jupyter Notebook containing the project code and outputs
 - `students.csv` — dataset containing student records
-- `main.py` — Python source file (use the actual uploaded filename if it differs)
+- `sourcecode.py` — Python source file (use the actual uploaded filename if it differs)
 
 ## 📊 Dataset
 
